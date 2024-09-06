@@ -21,7 +21,7 @@ class ResolverProblemas:
         print(div)
         return repeticao_a
     
-    def 
+
             
         
         
